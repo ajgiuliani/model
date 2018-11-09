@@ -1,9 +1,9 @@
 # model
 
 \tableofcontents
-  Name                                             PDB code     Helix   Beta Sheet   \%Total SecStruc
+  Name                                             | PDB code |     Helix |   Beta Sheet |   \%Total SecStruc
   ------------------------------------------------ ---------- ------- ------------ ------------------
-  glucose oxidase                                  1GPE            33           24                 57
+  glucose oxidase                                  | 1GPE    |        33  |         24  |               57
   albumine serum albumine                          1BM0            71            0                 71
   hemoglobin human                                 4HHB            74            0                 74
   peroxidase type I horse                          1HCH            50            3                 53
