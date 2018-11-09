@@ -1,4 +1,4 @@
-# model
+# models
 
 
   Name                                             | PDB code |   % Helix  | % Beta Sheet |	% Total
