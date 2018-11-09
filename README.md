@@ -1,7 +1,7 @@
 # model
 
 
-  Name                                             | PDB code |   % Helix  | % Beta Sheet |	%Total SecStruc
+  Name                                             | PDB code |   % Helix  | % Beta Sheet |	% Total
   ------------------------------------------------ | -------- |------------| -------------| ------------------
   glucose oxidase                                  |   1GPE   |      33    |      24      |          57
   albumine serum albumine                          |   1BM0   |      71    |       0      |          71
